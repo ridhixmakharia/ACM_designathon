@@ -92,8 +92,7 @@ img{
 footer.footer-basic {
     position:absolute;
     bottom:0;
-    width:100%;
-    height:60px;   /* Height of the footer */
+    width:100%;   /* Height of the footer */
     background-color: #ffffff;
 }
 
