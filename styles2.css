@@ -90,12 +90,17 @@ img{
 }
 
 footer.footer-basic {
-    position:absolute;
+    
     bottom:0;
     width:100%;   /* Height of the footer */
     height:65px;
     top;90%
     background-color: #ffffff;
+    position: fixed;
+    left: 0;
+    color: black;
+    text-align: center;
+}
 }
 
 input{
