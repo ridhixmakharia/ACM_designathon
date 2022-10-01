@@ -1,7 +1,28 @@
-.Ridhi{
-  font-family:Montserrat;
-  color: #57A6FF;
+.budget_expenses{
+  background-image: linear-gradient(to bottom, #74C69D, #081C15);
+  text-align: center;
+  padding: 10%;
 }
-.Saksham{
-  color: pink;
+
+.budget_expenses_row{
+  text-align: center;
 }
+.budget_expenses_heading{
+  font-family: Montserrat;
+  padding-bottom: 5%;
+  font-size: 400%;
+  padding-top: 0;
+}
+
+.budget_expenses_button{
+  background-color: #000;
+}
+.budget_expenses_card-text{
+  font-family: Montserrat;
+  padding: 5%;
+}
+.budget_expenses_card-title{
+  font-family: Cormorant;
+  font-size: 200%;
+}
+
