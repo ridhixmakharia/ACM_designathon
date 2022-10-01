@@ -15,7 +15,8 @@
 }
 
 .budget_expenses_button{
-  background-color: #fff;
+  background-color: #000;
+  color:#fff;
 }
 .budget_expenses_card-text{
   font-family: Montserrat;
